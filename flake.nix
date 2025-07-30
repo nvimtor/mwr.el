@@ -7,6 +7,10 @@
     flake-parts = {
       url = "github:hercules-ci/flake-parts";
     };
+
+    terranix = {
+      url = "github:terranix/terranix";
+    };
   };
 
   outputs = inputs@{ flake-parts, ... }: flake-parts.lib.mkFlake { inherit inputs; } {

@@ -18,7 +18,7 @@
   };
 
   resource = {
-    github_repository.mnemosyne = {
+    github_repository.mwr = {
       name = "mwr.el";
       description = "Emacs package to manually resize Emacs windows, with hydra & golden-ratio integration.";
       visibility = "public";

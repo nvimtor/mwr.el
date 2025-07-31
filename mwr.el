@@ -3,7 +3,6 @@
 ;; Copyright (C) 2025
 ;; Author: Vitor Leal <hello@vitorl.com>
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: convenience, windows
 ;; URL: https://github.com/nvimtor/mwr.el
 

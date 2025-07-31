@@ -4,7 +4,7 @@
 
 ;; Author: Vitor Leal <hello@vitorl.com>
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "24.3") (mwr "0.1.0") (golden-ratio "1.0"))
+;; Package-Requires: ((mwr "0.1.0") (golden-ratio))
 ;; Keywords: convenience, windows
 ;; URL: https://github.com/nvimtor/mwr.el
 

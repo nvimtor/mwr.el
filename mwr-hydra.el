@@ -4,7 +4,7 @@
 
 ;; Author: Vitor Leal <hello@vitorl.com>
 ;; Version: 0.1.0
-;; Package-Requires: ((emacs "24.3") (mwr "0.1.0") (hydra "0.13.0"))
+;; Package-Requires: ((mwr) (hydra))
 ;; Keywords: convenience, windows
 ;; URL: https://github.com/nvimtor/mwr.el
 

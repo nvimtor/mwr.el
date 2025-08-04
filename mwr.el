@@ -37,8 +37,6 @@
   :type 'integer
   :group 'manual-window-resize)
 
-(add-to-list 'window-persistent-parameters '(manually-resized . writable))
-
 ;;; Helpers
 (defun mwr--get-window-size (window)
   "Get the size of WINDOW as a cons cell (width . height)."
